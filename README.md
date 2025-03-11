@@ -71,4 +71,9 @@ Exemplo de intenções: “Consultar pedido”, “Buscar informações sobre pr
 ## Referências
 - [Aprenda sobre Microsoft Copilot Studio](https://learn.microsoft.com/pt-br/microsoft-copilot-studio/fundamentals-what-is-copilot-studio?wt.mc_id=DX-MVP-5003806)
 
+  
+ 
+- <a href="https://www.dio.me/"> <span>Formação de Microsoft Copilot Studio</span> <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+  
+
 - [Uso do GPT para criar os textos](https://chatgpt.com/)
