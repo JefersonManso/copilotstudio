@@ -76,4 +76,4 @@ Exemplo de intenções: “Consultar pedido”, “Buscar informações sobre pr
 - <a href="https://www.dio.me/"> <span>Formação de Microsoft Copilot Studio</span> <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
   
 
-- [Uso do GPT para criar os textos](https://chatgpt.com/)
+
